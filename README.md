@@ -1,3 +1,31 @@
+<p align="center">
+  <a href="https://sanity.io">
+    <img src="https://cdn.sanity.io/images/3do82whm/next/1dfce9dde7a62ccaa8e8377254a1e919f6c07ad3-128x128.svg" />
+  </a>
+  <h1 align="center">Sanity,โครงการนี้คุณต้องมีสติ</h1>
+  <h4 align="center">
+    <a href="https://www.sanity.io/get-started?ref=gh">Get Started</a> |
+    <a href="https://www.sanity.io/docs">Docs</a> |
+    <a href="https://www.sanity.io">Website</a>
+  </h4>
+</p>
+
+<p align="center">
+  <img alt="" src="https://img.shields.io/npm/v/sanity?style=flat">
+
+  <img alt="" src="https://img.shields.io/npm/l/sanity.svg?style=flat">
+  <a aria-label="Join the community on Slack" href="https://slack.sanity.io">
+    <img alt="" src="https://img.shields.io/badge/Join%20Slack-f03e2f?logo=Slack&style=flat">
+  </a>
+  <a aria-label="Follow Sanity on Twitter" href="https://twitter.com/sanity_io">
+    <img alt="" src="https://img.shields.io/twitter/follow/sanity_io?style=flat&color=blue">
+  </a>
+</p>
+
+## Build powerful production-ready content workspaces
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
